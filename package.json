@@ -1,0 +1,22 @@
+{
+  "name": "robo-videomaker",
+  "version": "1.0.0",
+  "description": "Script que busca informações em determinado assunto e traz as melhores tags, criando um histórico automatizado com fotos e publicando no youtube.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contatoevertonoliveira/robo-videoMaker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contatoevertonoliveira/robo-videoMaker/issues"
+  },
+  "homepage": "https://github.com/contatoevertonoliveira/robo-videoMaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
