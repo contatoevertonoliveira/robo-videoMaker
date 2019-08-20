@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/contatoevertonoliveira/robo-videoMaker/issues"
   },
-  "homepage": "https://github.com/contatoevertonoliveira/robo-videoMaker#readme"
+  "homepage": "https://github.com/contatoevertonoliveira/robo-videoMaker#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
